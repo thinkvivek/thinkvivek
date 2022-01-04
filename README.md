@@ -1,10 +1,6 @@
 👋 Hi, I’m Vivek Sharma
 
-Follow me on Twitter : [![alt text][1.1]][1]
-
-[1.1]: http://i.imgur.com/tXSoThF.png
-
-[1]: http://www.twitter.com/vivekbits
+[![Linkedin: Vivek Sharma](https://img.shields.io/badge/-Vivek%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekbits/)](https://www.linkedin.com/in/vivekbits/)
 
 [![Twitter: Vivek Sharma](https://img.shields.io/twitter/follow/vivekbits?style=social)](https://twitter.com/vivekbits)
 
