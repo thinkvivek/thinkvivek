@@ -1,4 +1,4 @@
-👋 Hi, I’m Vivek Sharma
+## Hi, I am Vivek Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub thinkvivek](https://img.shields.io/github/followers/thinkvivek?label=follow&style=social)](https://github.com/thinkvivek)
 
