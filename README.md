@@ -1,6 +1,6 @@
 👋 Hi, I’m Vivek Sharma
 
-[![alt text][1.1]][1]
+Follow me on Twitter : [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 
