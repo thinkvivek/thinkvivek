@@ -7,3 +7,5 @@
 [![Twitter: Vivek Sharma](https://img.shields.io/twitter/follow/vivekbits?style=social)](https://twitter.com/vivekbits)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=thinkvivek&left_color=gray&right_color=blue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkvivek&layout=compact&theme=calm)](https://github.com/thinkvivek/github-readme-stats)
