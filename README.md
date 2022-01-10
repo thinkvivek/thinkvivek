@@ -6,6 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinkvivek&layout=compact&theme=calm)](https://github.com/thinkvivek/github-readme-stats)
 
-** Other Links **
+## Other Links ##
 
-- 💬 Ask me about anything [here](https://github.com/thinkvivek/thinkvivek/issues)
+💬 Have any questions? [Ask here](https://github.com/thinkvivek/thinkvivek/issues)
