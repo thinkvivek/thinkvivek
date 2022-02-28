@@ -11,3 +11,6 @@
 💬 Have any questions? [Ask here](https://github.com/thinkvivek/thinkvivek/issues)
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</p>
