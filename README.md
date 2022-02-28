@@ -9,3 +9,5 @@
 ### Other Links ###
 
 💬 Have any questions? [Ask here](https://github.com/thinkvivek/thinkvivek/issues)
+
+<h3 align="left">Languages and Tools:</h3>
