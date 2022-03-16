@@ -28,5 +28,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
 </p>
 
-## Quotes
+### Quotes
 > I don't want anything. I exist only to serve others. - Neem Karoli Baba
